@@ -1,3 +1,45 @@
 tile.sapphireOre.name=Sapphire Ore
 tile.rubyOre.name=Ruby Ore
 tile.topazOre.name=Topaz Ore
+tile.laphiteOre.name=Laphite Ore
+
+item.sapphire.name=Sapphire
+item.ruby.name=Ruby
+item.topaz.name=Topaz
+item.laphite.name=Laphite
+item.laphiteDust.name=Laphite Dust
+
+item.sapphireSword.name=Sapphire Sword
+item.rubySword.name=RubySword
+item.topazSword.name=Topaz Sword
+item.emeraldSword.name=Emerald Sword
+item.laphiteSword.name=Laphite Sword
+
+item.sapphireSpade.name=Sapphire Spade
+item.rubySpade.name=RubySpade
+item.topazSpade.name=Topaz Spade
+item.emeraldSpade.name=Emerald Spade
+item.laphiteSpade.name=Laphite Spade
+
+item.sapphirePickaxe.name=Sapphire Pickaxe
+item.rubyPickaxe.name=RubyPickaxe
+item.topazPickaxe.name=Topaz Pickaxe
+item.emeraldPickaxe.name=Emerald Pickaxe
+item.laphitePickaxe.name=Laphite Pickaxe
+
+item.sapphireAxe.name=Sapphire Axe
+item.rubyAxe.name=RubyAxe
+item.topazAxe.name=Topaz Axe
+item.emeraldAxe.name=Emerald Axe
+item.laphiteAxe.name=Laphite Axe
+
+item.sapphireHoe.name=Sapphire Hoe
+item.rubyHoe.name=RubyHoe
+item.topazHoe.name=Topaz Hoe
+item.emeraldHoe.name=Emerald Hoe
+item.laphiteHoe.name=Laphite Hoe
+
+itemGroup.toolsTab=Tools
+itemGroup.weaponsTab=Weapons
+itemGroup.itemsTab=Items
+itemGroup.blocksTab=Blocks
